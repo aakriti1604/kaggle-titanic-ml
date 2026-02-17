@@ -17,7 +17,7 @@ Key Features:
 - Sex      → Passenger gender
 - Age      → Passenger age (contains missing values)
 - Fare     → Ticket fare (skewed distribution)
-- Cabin    → 
+- Cabin    → Cabin #
 - sibsp    → # of siblings / spouses aboard the Titanic
 - parch	   → # of parents / children aboard the Titanic
 
