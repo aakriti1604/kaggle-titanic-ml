@@ -5,7 +5,6 @@ Files:
 
 - train.csv → Training dataset containing passenger features and survival labels.
 - test.csv  → Test dataset used for generating predictions.
-- gender_submission.csv → 
 
 Key Features:
 
