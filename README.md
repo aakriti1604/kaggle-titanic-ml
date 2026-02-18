@@ -46,4 +46,4 @@ RandomForestClassifier
 
 ## Results
 
-Cross-validation accuracy: 0.73684
+Cross-validation accuracy: 0.81
