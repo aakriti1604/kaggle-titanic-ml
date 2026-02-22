@@ -10,7 +10,7 @@ Predict passenger survival on the Titanic shipwreck.
 
 Source: Kaggle – Titanic: Machine Learning from Disaster
 
-Key Features:
+Key Features from Dataset:
 
 - Survived → Target variable (0 = No, 1 = Yes)
 - Pclass   → Passenger class (proxy for socioeconomic status)
@@ -46,4 +46,4 @@ RandomForestClassifier
 
 ## Results
 
-Cross-validation accuracy: 0.81-->0.82
+Cross-validation accuracy: 0.81-->0.82-->0.83
