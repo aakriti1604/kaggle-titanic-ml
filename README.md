@@ -46,4 +46,10 @@ RandomForestClassifier
 
 ## Results
 
-Cross-validation accuracy: 0.81-->0.82-->0.83
+Random Forest: 
+    Cross Validation Accuracy: 0.81-->0.82-->0.83
+    Kaggle Score: 0.76794
+
+XGBoost:
+    Cross Validation Accuracy: 0.84
+    Kaggle Score: 0.77033
